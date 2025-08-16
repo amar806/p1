@@ -4,7 +4,7 @@ import "./About.css";
 function About() {
   return (
     <div className="about">
-      <h2 className="about-header">About Us</h2>
+      <h2 className="about-header">About Usssssssss</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, ea. Ad
         corrupti labore culpa excepturi, dignissimos repellat expedita, sit,
@@ -21,3 +21,4 @@ function About() {
 }
 
 export default About;
+
