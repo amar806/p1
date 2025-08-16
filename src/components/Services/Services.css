@@ -1,0 +1,21 @@
+.service {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.service-header {
+  font-size: 35px;
+  color: rgb(103, 139, 30);
+}
+
+.check-btn {
+  padding: 10px;
+  border-radius: 10px;
+}
+.check-btn:hover {
+  background-color: brown;
+  color: white;
+}

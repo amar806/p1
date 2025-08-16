@@ -1,0 +1,9 @@
+.contact-header {
+  color: rgb(97, 90, 90);
+  padding-bottom: 20px;
+}
+.contact {
+  border: 1px solid lightgray;
+  padding: 30px;
+  margin: 30px;
+}
